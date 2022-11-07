@@ -3,4 +3,4 @@
 
 ![medkitvest](https://site.staendi.dev/files/medkitvest.png)
 
-![medkitVestTutorial](https://streamable.com/idg9r1)
+https://streamable.com/idg9r1
