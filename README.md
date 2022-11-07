@@ -2,3 +2,5 @@
  A lightweight bulletproof / medkit system for your server featuring configuration, keybindings, cooldown, etc.
 
 ![medkitvest](https://site.staendi.dev/files/medkitvest.png)
+
+![medkitVestTutorial](https://site.staendi.dev/files/installation_medkitvest.mp4)
