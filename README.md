@@ -3,4 +3,4 @@
 
 ![medkitvest](https://site.staendi.dev/files/medkitvest.png)
 
-![medkitVestTutorial](https://site.staendi.dev/files/installation_medkitvest.mp4)
+![medkitVestTutorial](https://streamable.com/idg9r1)
