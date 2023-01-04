@@ -9,7 +9,7 @@
 3. Add the line 'ensure staendi_medkitvest' to your server.cfg
 4. Done
 
-https://site.staendi.dev/files/installation_medkitvest.mp4
+https://www.staendi.dev/files/installation_medkitvest.mp4
 
 # Showcase
-https://site.staendi.dev/files/showcase_medkitvest.mp4
+https://www.staendi.dev/files/showcase_medkitvest.mp4
